@@ -32,6 +32,11 @@ SQL business analysis project covering retention, churn, DAU/WAU/MAU, AOV, and L
 
 🔗 https://github.com/rinat2203/spotify-subscription-sql-analysis
 
+### Product Revenue A/B Testing Analysis
+Python statistical analysis project comparing revenue performance between control and test groups using t-test, Mann-Whitney U test, and confidence intervals.
+
+🔗 https://github.com/rinat2203/product-revenue-ab-testing-python
+
 ## Background
 
 - Cost Control Analyst
