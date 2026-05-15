@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Rinat 👋
 
-<!--
-**rinat2203/rinat2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Intelligence Analyst with experience in cost control, payroll analytics, and business reporting.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Power BI
+- SQL
+- Python
+- Tableau
+- Excel
+- Power Query
+- DAX
+- Data Modeling
+- Dashboard Development
+- Business Analysis
+
+## Featured Projects
+
+### Sales Performance Dashboard
+Interactive Power BI dashboard for business performance analysis.
+
+🔗 https://github.com/rinat2203/sales-performance-dashboard-powerbi
+
+## Background
+
+- Cost Control Analyst
+- Payroll Specialist
+- Finance Reporting
+- Business Analytics
+- ERP / 1C experience
+
+## Currently Learning
+
+- Advanced SQL
+- Python for Analytics
+- Portfolio Projects
