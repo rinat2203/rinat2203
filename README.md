@@ -27,6 +27,11 @@ Power BI dashboard for analyzing store sales, OPEX, and business performance.
 
 🔗 https://github.com/rinat2203/store-sales-opex-dashboard
 
+### Spotify Subscription SQL Analysis
+SQL business analysis project covering retention, churn, DAU/WAU/MAU, AOV, and LTV.
+
+🔗 https://github.com/rinat2203/spotify-subscription-sql-analysis
+
 ## Background
 
 - Cost Control Analyst
